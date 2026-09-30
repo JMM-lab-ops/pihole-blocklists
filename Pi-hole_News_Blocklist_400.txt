@@ -1,5 +1,8 @@
 bbc.co.uk
 bbc.com
+bbci.co.uk
+bbcimg.co.uk
+bbc.co.uk
 theguardian.com
 dailymail.co.uk
 telegraph.co.uk
